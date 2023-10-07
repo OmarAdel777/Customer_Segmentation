@@ -44,7 +44,7 @@ Customer segmentation is a crucial task for businesses, as it allows for targete
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/customer-segmentation.git
+   git clone https://github.com/OmarAdel777/customer-segmentation.git
    cd customer-segmentation
 
 
@@ -72,14 +72,3 @@ If you would like to contribute to this project, please follow these guidelines:
 - Make your changes and test thoroughly.
 - Create a pull request to merge your changes into the main branch.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Mention any libraries, tools, or resources you used or were inspired by during the project development.
-- Give credit to contributors or authors of code snippets used in the project.
-```
-
-Replace placeholders like "yourusername/customer-segmentation" with your actual repository URL and "customer_segmentation.py" with your script's filename. You can also add or remove sections as needed to fit your project's requirements and documentation style.
