@@ -45,9 +45,12 @@ Customer segmentation is a crucial task for businesses, as it allows for targete
 
    ```bash
    git clone https://github.com/OmarAdel777/customer-segmentation.git
+
+   ```bash
+
    cd customer-segmentation
-
-
+   ```
+   
  
 2. Install the required Python packages:
 
